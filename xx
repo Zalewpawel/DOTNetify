@@ -1,0 +1,23 @@
+  [31morigin/Controller-Genre-Role-Fship[m
+  [31morigin/HEAD[m -> origin/master
+  [31morigin/feat/Database[m
+  [31morigin/feat/add_songs[m
+  [31morigin/feat/controllers-Artist,UserHistory[m
+  [31morigin/feat/converter-user[m
+  [31morigin/feat/creating-userController[m
+  [31morigin/feat/login-and-register[m
+  [31morigin/feat/user-auth[m
+  [31morigin/feature/create-Data-Transfer_objects[m
+  [31morigin/feature/create-user-entity[m
+  [31morigin/feature/create-user-repository[m
+  [31morigin/feature/docker-auto-run[m
+  [31morigin/feature/homepage-frontend[m
+  [31morigin/feature/playlist-song_playlist-entities[m
+  [31morigin/feature/swagger[m
+  [31morigin/kinga[m
+  [31morigin/master[m
+  [31morigin/origin/feature/DB-change[m
+  [31morigin/origin/feature/Song-converter[m
+  [31morigin/origin/feature/role-management[m
+  [31morigin/refactor/controllers[m
+  [31morigin/refactor/models[m
